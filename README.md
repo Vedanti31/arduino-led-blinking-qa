@@ -35,3 +35,9 @@ The project is tested for:
 - LED indication
 - Serial communication
 - Program compilation
+## QA Resolution Tracking
+
+The project was tested using GitHub Issues to identify and document
+quality-related problems. Sensor connections, threshold configuration,
+LED indication and Serial communication were reviewed during QA.
+The identified issues were documented and resolved.
